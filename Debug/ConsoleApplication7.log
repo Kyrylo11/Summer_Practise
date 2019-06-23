@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\кирюша\documents\visual studio 2017\projects\consoleapplication7\consoleapplication7\source.cpp(30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication7.vcxproj -> c:\users\кирюша\documents\visual studio 2017\Projects\ConsoleApplication7\Debug\ConsoleApplication7.exe
+  ConsoleApplication7.vcxproj -> c:\users\кирюша\documents\visual studio 2017\Projects\ConsoleApplication7\Debug\ConsoleApplication7.pdb (Partial PDB)
